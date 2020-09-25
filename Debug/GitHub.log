@@ -1,0 +1,3 @@
+﻿  extra-task-1.cpp
+C:\Users\homeuser\Desktop\GitHub\GitHub\extra-task-1.cpp(75,11): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  GitHub.vcxproj -> C:\Users\homeuser\Desktop\GitHub\Debug\GitHub.exe
